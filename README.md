@@ -38,12 +38,12 @@ I'm probably doing one of these:
 ![ACC](https://img.shields.io/badge/Assetto_Corsa_Competizione-1A1A2E?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHRleHQgeT0iMjAiIGZvbnQtc2l6ZT0iMTgiPvCfjI8PC90ZXh0Pjwvc3ZnPg==&logoColor=white)
 ![AMS2](https://img.shields.io/badge/Automobilista_2-E10600?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHRleHQgeT0iMjAiIGZvbnQtc2l6ZT0iMTgiPvCPjuKAjfCfkqg8L3RleHQ+PC9zdmc+&logoColor=white)
 
-Me apasiona el Sim Racing y construyo mis propias herramientas de telemetría: pipelines en tiempo real que capturan datos UDP de los simuladores para procesarlos en un Lakehouse y visualizar dashboards de carrera. 😄
+I'm passionate about Sim Racing and build my own telemetry tools: real-time pipelines that capture UDP data from simulators, process it in a Lakehouse, and visualize it in racing dashboards. 😄
 
 **🃏 Yu-Gi-Oh!**
 ![Yu-Gi-Oh!](https://img.shields.io/badge/Yu--Gi--Oh!-6B0F6B?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHRleHQgeT0iMjAiIGZvbnQtc2l6ZT0iMTgiPuKcrTwvdGV4dD48L3N2Zz4=&logoColor=white)
 
-¡Es hora del duelo! 🃏 Jugador casual enfocado en deckbuilding y análisis de meta.
+It's time to d-d-d-duel! 🃏 Casual player focused on deckbuilding and occasional meta analysis.
 
 ---
 
